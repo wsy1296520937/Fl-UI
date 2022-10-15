@@ -33,17 +33,13 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://blog.csdn.net/CarrreyYan_979292?type=blog',
-        },
-        {
-          title: '掘金',
-          path: 'https://juejin.cn/user/1785262616087192',
+          path: 'https://blog.csdn.net/m0_61660028?spm=1000.2115.3001.5343',
         },
       ],
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/yq979292',
+      path: 'https://github.com/wsy1296520937',
     },
   ],
   // styles: [style],
