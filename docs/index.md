@@ -22,5 +22,5 @@ footer: FL Design 测试阶段 | Copyright © 2022<br />Powered by [dumi](https:
 
 ## 反馈
 
-请访问[Github](https://github.com/wsy1296520937)或者加微信 <code src="./components/Team" inline="true"></code>
+请访问[Github](https://github.com/wsy1296520937)或者加微信反馈 <code src="./components/Team" inline="true"></code>
 
