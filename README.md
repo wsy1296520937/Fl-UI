@@ -49,6 +49,4 @@ yarn add Flunt
 
 ## 🔨 Usage
 
-...
 
->>>>>>> d805ee371d6e36ab91331acee062f078e24167a3
