@@ -36,11 +36,6 @@ export default function Collapse() {
                list[j].btn = btn;
            }
         }  
-       
-           
-           
-      
-        
         setList([...list])
 
     }

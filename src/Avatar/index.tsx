@@ -45,8 +45,7 @@ export default function Avatar({children,style,size,shape,autoFixFontSize,trigge
 
         if (textDomWidth - avatarSize >= 0) {
           // 文本不够，需要自适应
-          console.log(11111111111);
-          
+
           (textRef.current as HTMLElement).style.transform = `scale(${
             1 - (textDomWidth - avatarSize + 5) / 100
           })`;

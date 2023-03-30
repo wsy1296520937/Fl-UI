@@ -38,8 +38,6 @@ export default function Collapse() {
                }
             }      
            
-      
-        
         setList([...list])
 
     }

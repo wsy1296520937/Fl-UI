@@ -44,15 +44,3 @@ npm install Flunt
 ```bash
 yarn add Flunt
 ```
-
-## 🔨 Usage
-
-...
-
-## 贡献者
-
-感谢各位开发者做出的贡献...(_非全部_)
-
-<a href="https://github.com/Found-404/Fl-UI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Found-404/Fl-UI"/>
-</a>
